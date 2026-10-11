@@ -1,0 +1,3 @@
+# This directory holds the trained Scikit-Learn pipeline object:
+# - pipe.pkl
+# - metadata.json
