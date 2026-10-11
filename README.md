@@ -1,4 +1,6 @@
 # 🏏 IPL Win Probability Predictor
+🚀 **Live Demo: [Click Here to Try the App](https://ipl-win-predictor911.streamlit.app/)**
+
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io/)
