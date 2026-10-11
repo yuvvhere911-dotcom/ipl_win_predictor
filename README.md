@@ -136,8 +136,8 @@ Make sure Python 3.9 or newer is installed on your system.
 
 ### 1. Clone or Open the Repository
 ```bash
-git clone https://github.com/your-username/ipl-win-probability-predictor.git
-cd ipl-win-probability-predictor
+git clone https://github.com/yuvvhere911-dotcom/ipl_win_predictor.git
+cd ipl_win_predictor
 ```
 
 ### 2. Create a Virtual Environment
@@ -203,6 +203,11 @@ For training on the full historical IPL records (2008–2024):
 
 **Q4: How do you convert cricket overs to mathematical balls?**  
 > *Answer:* Overs are parsed into integer overs and decimal extra balls. For instance, `14.3` overs corresponds to $(14 \times 6) + 3 = 87$ balls bowled, avoiding the common error of treating `.3` as a standard tenth of an over.
+---
+
+## 👤 Author
+- **GitHub:** [@yuvvhere911-dotcom](https://github.com/yuvvhere911-dotcom)
+- **Repository:** [IPL Win Predictor](https://github.com/yuvvhere911-dotcom/ipl_win_predictor)
 
 ---
 
